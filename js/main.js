@@ -124,7 +124,7 @@
       }
 
       getTimeoutId() {
-        return this.timeoutId
+        return this.timeoutId;
       }
 
       getLevel () {
