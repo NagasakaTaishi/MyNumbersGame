@@ -27,7 +27,7 @@
           this.game.addCurrentNum();
 
           if (this.game.getCurrentNum() === this.game.getLevel() ** 2) {
-            clearTimeout(this.game.getCurrentNum());
+            clearTimeout(this.game.getTimeoutId());
           }
         }
       }
