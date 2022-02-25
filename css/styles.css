@@ -5,6 +5,13 @@ body {
     font-size: 16px;
     font-weight: bold;
   }
+
+  #explain {
+    
+   
+    color: black
+    
+  }
   
   #container {
     
@@ -12,7 +19,7 @@ body {
    
   }
   
-  #board {
+  #board  {
     display: flex;
     flex-wrap: wrap;
     list-style: none;
