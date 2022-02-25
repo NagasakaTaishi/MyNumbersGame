@@ -116,7 +116,7 @@
       }
 
       addCurrentNum() {
-        this.game.currentNum++;
+        this.currentNum++;
       }
 
       getCurrentNum() {
